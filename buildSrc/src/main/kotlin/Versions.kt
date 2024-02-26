@@ -25,7 +25,7 @@ object Versions {
     const val navigationVersion = "2.4.2"
     const val locationVersion = "19.0.1"
     const val glideVersion = "4.13.0"
-    const val hiltVersion = "2.44"
+    const val hiltVersion = "2.48.1"
     const val timberVersion = "5.0.1"
     const val loggerVersion = "2.2.0"
     const val lifecycleKtxVersion = "2.5.1"
